@@ -15,4 +15,4 @@ Documentação dos meus estudos em Segurança da Informação.
 
 ## 🎯 Objetivo
 Conquistar minha primeira vaga de estágio em 
-Segurança da Informação ou TI em 2025.
+Segurança da Informação ou TI em 2026.
