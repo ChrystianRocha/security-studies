@@ -8,11 +8,10 @@ Aqui registro laboratórios realizados, scripts desenvolvidos e conceitos estuda
 
 ## 📚 Plataformas de Estudo
 
-- TryHackMe
-- DIO
-- IBSEC
-- Cisco Networking Academy
-
+- [TryHackMe](https://tryhackme.com/)
+- [Dio.me](https://www.dio.me/)
+- [IBSEC](https://ibsec.com.br/)
+- [Cisco Networking Academy](https://www.netacad.com/pt/)
 ---
 
 ## 🗂️ Estrutura do Repositório
