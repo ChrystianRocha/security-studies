@@ -1,20 +1,30 @@
-# Fundamentos do Git
+# Formação GitHub Certification - DIO
 
-Este diretório contém a documentação dos conteúdos estudados no módulo de Fundamentos do Git durante a Formação GitHub Certification da plataforma Digital Innovation One (DIO).
+Este diretório contém a documentação dos conteúdos estudados durante a Formação GitHub Certification oferecida pela plataforma Digital Innovation One (DIO).
+
+A formação aborda conceitos e práticas relacionadas ao uso do Git e do GitHub para controle de versão, gerenciamento de repositórios e colaboração em projetos de desenvolvimento de software.
 
 ---
 
 ## 📚 Conteúdos Abordados
 
-- Conceitos básicos de versionamento de código
-- Inicialização de repositórios Git
-- Clonagem de repositórios remotos
-- Ciclo de vida dos arquivos no Git
-- Controle de alterações
-- Histórico de commits
-- Sincronização com repositórios remotos
+- Fundamentos de Git
+- Controle de versão
+- Ciclo de vida dos arquivos
+- Documentação com Markdown
+- Colaboração em projetos
+- Gerenciamento de repositórios no GitHub
 
 ---
 
 ## 🎯 Objetivo
 
+Compreender e aplicar boas práticas de versionamento de código e colaboração utilizando Git e GitHub no gerenciamento de projetos locais e remotos.
+
+---
+
+## 📂 Estrutura
+
+/git-fundamentals → Conceitos básicos e comandos do Git  
+/markdown → Documentação utilizando Markdown  
+/github-collaboration → Fluxo de colaboração em projetos  
