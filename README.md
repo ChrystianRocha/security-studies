@@ -16,9 +16,10 @@ Aqui registro laboratórios realizados, scripts desenvolvidos e conceitos estuda
 
 ## 🗂️ Estrutura do Repositório
 
-/tryhackme → Write-ups e análises dos laboratórios  
-/python → Scripts desenvolvidos durante os estudos  
-/anotacoes → Resumos teóricos e conceitos fundamentais  
+/dio → Cursos e formações da plataforma DIO  
+/tryhackme → Laboratórios e desafios práticos  
+/ibsec → Conteúdos de capacitação em Cybersecurity  
+/cisco → Estudos de redes e infraestrutura (Cisco NetAcad)   
 
 ---
 
